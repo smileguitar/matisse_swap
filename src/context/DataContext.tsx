@@ -5,7 +5,7 @@ type ContextProps = {
   balance: string;
   address: string;
   connect: () => void;
-  detail: false;
+  detail: boolean;
   setDetail: (v: boolean) => void;
 };
 

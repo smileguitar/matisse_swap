@@ -1,0 +1,130 @@
+@font-face {
+  font-family: "Konnect-Black";
+  src: url("/fonts/Konnect-Black.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-BlackItalic";
+  src: url("/fonts/Konnect-Black.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-Bold";
+  src: url("/fonts/Konnect-Bold.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-BoldItalic";
+  src: url("/fonts/Konnect-BoldItalic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-ExtraBold";
+  src: url("/fonts/Konnect-ExtraBold.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-ExtraBoldItalic";
+  src: url("/fonts/Konnect-ExtraBoldItalic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-Hairline";
+  src: url("/fonts/Konnect-Hairline.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-HairlineItalic";
+  src: url("/fonts/Konnect-HairlineItalic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-Italic";
+  src: url("/fonts/Konnect-Italic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-Light";
+  src: url("/fonts/Konnect-Light.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-LightItalic";
+  src: url("/fonts/Konnect-LightItalic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-Medium";
+  src: url("/fonts/Konnect-Medium.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-MediumItalic";
+  src: url("/fonts/Konnect-MediumItalic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect";
+  src: local("Konnect Regular"), local("Konnect-Regular"),
+    url("/fonts/Konnect-Regular.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-SemiBold";
+  src: local("Konnect SemiBold"), local("Konnect-SemiBold"),
+    url("/fonts/Konnect-SemiBold.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-SemiBoldItalic";
+  src: local("Konnect SemiBoldItalic"), local("Konnect-SemiBoldItalic"),
+    url("/fonts/Konnect-SemiBoldItalic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-Thin";
+  src: local("Konnect Thin"), local("Konnect-Thin"),
+    url("/fonts/Konnect-Thin.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Konnect-ThinItalic";
+  src: local("Konnect ThinItalic"), local("Konnect-ThinItalic"),
+    url("/fonts/Konnect-ThinItalic.otf") format("opentype"); /* Open Type Font */
+  font-weight: normal;
+  font-style: normal;
+}
